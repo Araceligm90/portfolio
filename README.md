@@ -1,3 +1,4 @@
-# Modify this portfolio
+# WELCOME TO ARACELI GARCIA'S PORTFOLIO
 
-Make it your own! 
+[Click on this link to find out more](https://araceli-garcia.netlify.app/)
+
