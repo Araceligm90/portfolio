@@ -1,4 +1,4 @@
 # WELCOME TO ARACELI GARCIA'S PORTFOLIO
 
-[Click on this link to find out more](https://araceli-garcia.netlify.app/)
+[Click on this link see my portfolio](https://araceli-garcia.netlify.app/)
 
