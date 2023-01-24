@@ -42,6 +42,21 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "70"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original",
+          "level": "95"
+        },
+        {
+          "name": "VSCode",
+          "class": "devicon-vscode-plain",
+          "level": "95"
         }
       ]
     }
