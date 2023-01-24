@@ -13,36 +13,60 @@
     {
       "title": "Salmon Cookies",
       "startDate": "2022",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "description": "This is the first big project I had to work on. It was known by former students as the 'infamous salmon cookies' and it lived up to its title. The styling is definitely not its strongest point, but the usage of JavsScript and DOM manipulation certainly is. It may seem easy for an expert dev, but for one that has just started his/her dev journey it is definitely the 'infamous salmon cookies', a true soul-crusher and mind-bender.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/salmon-cookies/salmon-cookies-home.png",
+        "images/portfolio/salmon-cookies/salmon-cookies-sales.png"
       ],
-      "url": "",
+      "url": "https://araceligm90.github.io/cookie-stand/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         }
       ]
     },
     {
       "title": "Fruits & Friends",
       "startDate": "2022",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "This was our final project for Code 201. We were the 'Knights of the Project Table' and it was a great learning experience. We created an amazing splash-screen, AI to play against and a lot of cool features. I am very proud of this.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/fruits-friends/fruits-friends-splashscreen.png",
+        "images/portfolio/fruits-friends/fruits-friends-home.png"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/knights-of-the-project-table/fruits-and-friends",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Gallery Of Horns",
+      "startDate": "2023",
+      "description": "This is my first project ever using React. It is a gallery of different animals whose sharing points is that they have horns. I used cards to display the animals and then a modal that allows you to display animals that only have 1, 2, 3 or 100 horns, which are the avaiable options. I also loved playing with Bootstrap here.",
+      "images": [
+        "images/portfolio/gallery-horns/gallery-horns-home.png",
+        "images/portfolio/gallery-horns/gallery-horns-cards.png"
+      ],
+      "url": "https://genuine-cannoli-f1374f.netlify.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -51,31 +75,12 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "Gallery Of Horns",
-      "startDate": "2023",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         }
+
       ]
     }
   ],
