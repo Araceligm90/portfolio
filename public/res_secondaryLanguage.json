@@ -85,35 +85,37 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - obecnie",
+      "company": "Code Fellows",
+      "title": "Estudiante",
+      "years": "03/2023 - 06/2023",
       "mainTech": [
-        "Angular 8/9/10"
+        "Software Development in Python"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        "Angular Material"
+        "Django",
+        "React",
+        "NextJS",
+        "Plotly",
+        "MatPlotLib",
+        "Numpy",
+        "Pandas",
+        "Scikit-Learn"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Stażystka",
-      "years": "01.2018 - 09.2019",
+      "company": "Code Fellows",
+      "title": "Estudiante",
+      "years": "09/2022 - 03/3023",
       "mainTech": [
-        "Angular 7/8"
+        "Software Development in JavaScript"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "Swagger",
         "JavaScript",
-        "DHTMLX Gantt"
+        "HTML5",
+        "CSS3",
+        "React",
+        "Bootstrap",
+        "Netlify"
       ]
     }
   ]
